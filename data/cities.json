@@ -1,40 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "cityName": "Murcia",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2023-07-29T16:16:44.990Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "38.03078569382294",
+        "lng": "-1.1425781250000002"
       },
-      "id": 17806751
+      "id": 98443208
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Villiers-sur-Yonne",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-29T16:20:57.083Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "47.39834920035926",
+        "lng": "3.5156250000000004"
       },
-      "id": 98443197
+      "id": 98443211
+    },
+    {
+      "cityName": "Villar de Olalla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-29T16:21:44.668Z",
+      "notes": "",
+      "position": {
+        "lat": "39.9602803542957",
+        "lng": "-2.2631835937500004"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Cubo de la Solana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-29T16:21:50.860Z",
+      "notes": "",
+      "position": {
+        "lat": "41.60722821271717",
+        "lng": "-2.5268554687500004"
+      },
+      "id": 98443213
     }
   ]
 }

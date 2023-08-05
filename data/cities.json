@@ -13,18 +13,6 @@
       "id": 98443208
     },
     {
-      "cityName": "Villiers-sur-Yonne",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-07-29T16:20:57.083Z",
-      "notes": "",
-      "position": {
-        "lat": "47.39834920035926",
-        "lng": "3.5156250000000004"
-      },
-      "id": 98443211
-    },
-    {
       "cityName": "Villar de Olalla",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -35,18 +23,6 @@
         "lng": "-2.2631835937500004"
       },
       "id": 98443212
-    },
-    {
-      "cityName": "Cubo de la Solana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-29T16:21:50.860Z",
-      "notes": "",
-      "position": {
-        "lat": "41.60722821271717",
-        "lng": "-2.5268554687500004"
-      },
-      "id": 98443213
     }
   ]
 }

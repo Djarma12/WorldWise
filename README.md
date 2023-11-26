@@ -1,6 +1,6 @@
 # WorldWise
 
-![WorldWise](public/Order-page.png)
+![WorldWise](public/App-Layout.png)
 
 A world map that tracks your footsteps into every city you can think of.
 
